@@ -1,4 +1,7 @@
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
+## NAME:VAISHNAVIDEVI V
+## REGISTER NO:212223040230
+## DATE:10/11/24
 # AIM :
 ## To write a C program to implement a symbol table.
 # ALGORITHM
@@ -66,7 +69,7 @@ int main() {
 
 # OUTPUT:
 
-![image](https://github.com/user-attachments/assets/aff82f7b-8e8c-467d-a4bf-7db781f49724)
+![image](https://github.com/user-attachments/assets/293312be-6a4e-480c-93bf-1321da55ada8)
 
 
 # RESULT
